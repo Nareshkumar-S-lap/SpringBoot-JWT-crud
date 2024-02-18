@@ -36,7 +36,7 @@ public class SecurityConfig {
         this.jwtAuthenticationFilter = jwtAuthenticationFilter;
         this.logoutHandler = logoutHandler;
     }
-
+  
     @Bean
     public SecurityFilterChain securityFilterChain(HttpSecurity http) throws Exception {
 
