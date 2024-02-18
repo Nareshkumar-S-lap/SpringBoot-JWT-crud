@@ -17,7 +17,7 @@ To use this configuration in your Spring Boot application, follow these steps:
 
 1. Clone this repository to your local machine:
 
-2. git clone https://github.com/your-username/spring-security-jwt.git
+2. git clone https://github.com/Nareshkumar-S-lap/SpringBoot-JWT-crud.git
 
 3. Import the project into your preferred IDE (e.g., IntelliJ IDEA, Eclipse).
 
